@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PureWeatherRemark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_start">开始使用</string>
+    <string name="text_air_cond">空气质量状况 %s</string>
+    <string name="text_temp">%s ℃</string>
+    <string name="text_temp_feel">体感温度 %s</string>
+</resources>
